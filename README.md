@@ -48,7 +48,7 @@ We are extremely close to reaching our goal of creating a fully operational Obje
 
 
 **Next Steps**  
-With a great deal of time and more funding, we could execute the hyperspectral approach by using resources such as GBDX images and pre-trained tent identifying models – or even learn to use ArcGIS. Another technique is to take more time to gather data (most likely cropping images manually) to run through a model in the `TensorFlow` library. With more resources, we would be able to get resources to those in need more effectively. In addition, our proposed model would help us to collect more accurate real time data about those living without permanent shelter.
+With a great deal of time and more funding, we could execute the hyperspectral approach by using resources such as GBDX images and pre-trained tent identifying models – or even learn to use ArcGIS. Another technique is to take more time to gather data (most likely cropping images manually) to run through a model in the `TensorFlow` library. With more resources, we would help emergency responders provide emergency supplies and services to those in need more effectively. In addition, our proposed model would help us to collect more accurate real time data about those living without permanent shelter.
 
 ---
 ### Sources
