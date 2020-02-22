@@ -5,7 +5,12 @@ During disasters, emergency management agencies and humanitarian organizations n
 
 ---
 ### Case Study: Haiti Earthquake 2010
+On January 12th 2010 Haiti was hit with a catastrophic 7.0 magnitude earthquake, The epicenter was near the town of Léogâne (Ouest), about 16 miles west of the capital, Port-au-Prince. An estimated three million people were affected by the earthquake and its 52 aftershocks of 4.5 magnitude or greater.  The death toll was speculated to range from 100,000 to 316,000. In addition, an  estimated 250,000 residences and 30,000 commercial buildings collapsed or were severely damaged.
+Haiti, located on the island of Hispanola in the Caribbean, is in a seismically active region that has a history of destructive earthquakes. In addition, the region is subject to tropical cyclones that frequently cause flooding and widespread damage.
 
+Residents that became homeless from the 2010 earthquake resorted to creating temporary shelters out of tents, tarps and/or other building materials. In Leogane, Haiti, there were sanctioned areas where residents could build tent communities so that they would have quick and easy access to resources such as food, water, and medical care.
+
+We utilized satellite imagery of these tent communities as the basis of our image dataset.
 
 ---
 ### Determining a Method (Part I)
